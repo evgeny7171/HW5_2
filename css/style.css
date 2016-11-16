@@ -1,0 +1,78 @@
+div{
+  margin: 30px;
+}
+
+td{
+
+  border: 10px solid #0a0a0a;
+}
+
+.column1-3{
+  height: 50px;
+}
+
+.column2-1{
+  width: 60px;
+  height: 135px;
+}
+
+.column3-23{
+ width: 85px;
+ height: 135px; 
+}
+
+.column4-12{
+  width:  60px;
+  height: 60px;
+}
+.column4-3{
+  width: 130px;  
+}
+.column5-23{
+  height: 60px;
+}
+.column6-2{
+  height: 30px;
+}
+.column7-1{
+  height: 30px;
+}
+
+
+.grey{
+  background: #07130f;
+}
+
+.yellow{
+  background: #fff070;
+}
+
+.blue{
+  background: #055188;
+}
+
+.red{
+  background: #ff5c3f;
+}
+
+.top{
+  border-top: none;
+}
+
+.left{
+  border-left: none;
+}
+
+.right{
+  border-right: none;
+}
+
+.bottom{
+  border-bottom: none;
+}
+
+
+
+
+
+
